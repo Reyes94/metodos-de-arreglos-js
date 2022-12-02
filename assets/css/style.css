@@ -1,0 +1,17 @@
+.largeInput {
+    width:47%;
+}
+
+.container {
+    display: flex;
+    gap: 15rem;
+}
+
+.tabla {
+    border-spacing: 25px;
+}
+
+.none {
+    list-style: none;
+    font-size: 20px;
+}
